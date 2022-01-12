@@ -1,0 +1,41 @@
+{
+  "YouSwapTest": {
+    "hardhat": {
+      "UNI": {
+        "address": "0x7c2C195CD6D34B8F845992d380aADB2730bB9C6F"
+      },
+      "BUSD": {
+        "address": "0x8858eeB3DfffA017D4BCE9801D340D36Cf895CCf"
+      },
+      "You": {
+        "address": "0x0078371BDeDE8aAc7DeBfFf451B74c5EDB385Af7"
+      },
+      "WBTC": {
+        "address": "0xf4e77E5Da47AC3125140c470c71cBca77B5c638c"
+      },
+      "USDT": {
+        "address": "0xf784709d2317D872237C4bC22f867d1BAe2913AB"
+      }
+    }
+  },
+  "InviteV1": {
+    "hardhat": {
+      "address": "0x3619DbE27d7c1e7E91aA738697Ae7Bc5FC3eACA5"
+    }
+  },
+  "FactoryV2": {
+    "hardhat": {
+      "address": "0x038B86d9d8FAFdd0a02ebd1A476432877b0107C8"
+    }
+  },
+  "FactoryV2Core": {
+    "hardhat": {
+      "address": "0x1A1FEe7EeD918BD762173e4dc5EfDB8a78C924A8"
+    }
+  },
+  "FactoryCreator": {
+    "hardhat": {
+      "address": "0x500D1d6A4c7D8Ae28240b47c8FCde034D827fD5e"
+    }
+  }
+}

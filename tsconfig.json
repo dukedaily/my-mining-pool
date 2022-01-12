@@ -1,0 +1,19 @@
+{
+    "compilerOptions": {
+        "target": "es2019",
+        "module": "commonjs",
+        "strict": true,
+        "esModuleInterop": true,
+        "outDir": "dist",
+        "noImplicitAny": false,
+        "resolveJsonModule": true
+    },
+    "include": [
+        "./scripts",
+        "./test",
+        "./tasks"
+    ],
+    "files": [
+        "buidler.config.ts",
+    ]
+}

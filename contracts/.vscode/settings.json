@@ -1,0 +1,11 @@
+{
+    "solidity.defaultCompiler": "embedded",
+    "solidity-va.cockpit.view.topLevelContracts.listStyle": "tree",
+    "solidity-va.deco.arguments": false,
+    "solidity-va.hover": false,
+    "solidity-va.outline.pragmas.show": false,
+    "solidity-va.outline.inheritance.show": false,
+    "solidity-va.outline.imports.show": false,
+    "solidity-va.outline.extras": false,
+    "solidity-va.outline.var.storage_annotations": false
+}
